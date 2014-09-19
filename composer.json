@@ -1,7 +1,7 @@
 {
-    "name": "sonata-project/user-bundle",
+    "name": "kolah/sonata-user-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony SonataUserBundle",
+    "description": "Temporary fork of Symfony SonataUserBundle. DO NOT USE! It may be reoved soon.",
     "keywords": ["user", "sonata", "google authenticator"],
     "homepage": "http://sonata-project.org/bundles/user",
     "license": "MIT",
